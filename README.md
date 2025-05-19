@@ -108,6 +108,11 @@ Fitur "Test Robustness" menerapkan noise Gaussian pada *gambar ter-watermark yan
 
 Tombol "Calculate PSNR" menghitung Peak Signal-to-Noise Ratio antara gambar asli yang dipilih dan gambar ter-watermark. PSNR adalah metrik standar yang digunakan untuk mengukur kualitas gambar yang direkonstruksi atau dikompresi dibandingkan dengan versi aslinya. Nilai PSNR yang lebih tinggi menunjukkan distorsi yang lebih sedikit, artinya gambar ter-watermark secara visual lebih dekat dengan gambar asli dan watermark lebih tidak terlihat (imperceptible).
 
-## Lisensi
+## Screenshoot
 
-[Tentukan lisensi Anda di sini, misalnya, MIT, Apache, dll.]
+![image](https://github.com/user-attachments/assets/affe5a06-cdcf-4885-bff7-3d7f7c50d316)
+
+![image](https://github.com/user-attachments/assets/722e2578-c5d8-4815-acdd-2c90c382299d)
+
+![image](https://github.com/user-attachments/assets/fe6bda81-7a0c-4e58-a707-0eb3fb4ac89d)
+
